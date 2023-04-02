@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working correct posture using openCV
+I am currently working on a project correct posture using openCV
 
 
 ## 🌐 Socials:
