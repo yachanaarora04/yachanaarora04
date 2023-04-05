@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently working on a project correct posture using openCV
+Myself Yachana Arora.
+Currently pursuing my Bachelor in Technology from National Institute of Technology, Hamirpur.
+
+I am currently working on a project: correct posture using openCV.
 
 
 ## 🌐 Socials:
